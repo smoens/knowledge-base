@@ -1,20 +1,25 @@
 📚 Resource list
 
-Legend:
-* `*`   should explore more
-* ✔️    confident in using or certificate obtained
+<ins>Legend:</ins>
+| symbol | description |
+|:--:|--|
+|`*`| to explore |
+|🎓| certificate obtained |
+|✔️| confident in using |
 
+_For more domain-specific resources e.g. mobility, retail... it might be interesting to create a separate list_
 
 - [☁️ Cloud Computing](#️-cloud-computing)
   - [Applications](#applications)
     - [Amazon Web Services](#amazon-web-services)
     - [Google Cloud Platform `*`](#google-cloud-platform-)
-    - [Microsoft Azure `*` `ai-900✔️`](#microsoft-azure--ai-900️)
+    - [Microsoft Azure `*` `ai-900🎓`](#microsoft-azure--ai-900)
     - [Snowflake](#snowflake)
 - [🛠️ Data Engineering](#️-data-engineering)
   - [Applications](#applications-1)
     - [IBM DataStage](#ibm-datastage)
     - [Azure Data Factory](#azure-data-factory)
+    - [dbt (data build tool) `*`](#dbt-data-build-tool-)
 - [📊 Data Visualisation](#-data-visualisation)
   - [Applications](#applications-2)
     - [Amazon Quicksight `*`](#amazon-quicksight-)
@@ -28,6 +33,11 @@ Legend:
     - [Tableau ✔️](#tableau-️)
 - [🔗 Data Warehousing](#-data-warehousing)
 - [🤖 Machine Learning](#-machine-learning)
+  - [Applications](#applications-3)
+    - [DVC `data version control` `*`](#dvc-data-version-control-)
+    - [Kubeflow `machine learning workflow`](#kubeflow-machine-learning-workflow)
+    - [MLFlow `machine learning workflow`](#mlflow-machine-learning-workflow)
+    - [Tensorflow `deep learning`](#tensorflow-deep-learning)
 - [👩‍💻 Software Development](#-software-development)
 - [📙 Books](#-books)
   - [Machine Learning](#machine-learning)
@@ -60,7 +70,7 @@ Legend:
     * [Data Engineer Learning Path](https://cloud.google.com/training/data-ml#data-engineer-learning-path)
   * [Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
     * [Machine Learning Engineer Learning Path](https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path)
-### Microsoft Azure `*` `ai-900✔️`
+### Microsoft Azure `*` `ai-900🎓`
 * https://azure.microsoft.com/en-us/
 * Learning Resources
   * https://docs.microsoft.com/en-us/learn/
@@ -82,7 +92,8 @@ Legend:
 ## Applications
 ### IBM DataStage
 ### Azure Data Factory
-
+### dbt (data build tool) `*`
+* https://www.getdbt.com/
 
 # 📊 Data Visualisation
 
@@ -136,6 +147,20 @@ All in Python. All for free. No front‑end experience required.
 # 🔗 Data Warehousing
 
 # 🤖 Machine Learning
+## Applications
+### DVC `data version control` `*`
+* https://dvc.org/
+
+### Kubeflow `machine learning workflow`
+* https://www.kubeflow.org
+> The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.
+
+### MLFlow `machine learning workflow`
+* https://mlflow.org/
+> An open source platform for the machine learning lifecycle
+
+### Tensorflow `deep learning`
+* https://www.tensorflow.org/
 
 # 👩‍💻 Software Development
 
