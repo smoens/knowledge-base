@@ -1,18 +1,33 @@
 📚 Resource list
 
-- [📊 Data Visualisation](#-data-visualisation)
+Legend:
+* `*`   should explore more
+* ✔️    confident in using or certificate obtained
+
+
+- [☁️ Cloud Computing](#️-cloud-computing)
   - [Applications](#applications)
+    - [Amazon Web Services](#amazon-web-services)
+    - [Google Cloud Platform `*`](#google-cloud-platform-)
+    - [Microsoft Azure `*` `✔️ ai-900`](#microsoft-azure--️-ai-900)
+    - [Snowflake](#snowflake)
+- [🛠️ Data Engineering](#️-data-engineering)
+  - [Applications](#applications-1)
+    - [IBM DataStage](#ibm-datastage)
+    - [Azure Data Factory](#azure-data-factory)
+- [📊 Data Visualisation](#-data-visualisation)
+  - [Applications](#applications-2)
     - [Amazon Quicksight `*`](#amazon-quicksight-)
     - [Dash `*`](#dash-)
     - [D3js `*`](#d3js-)
     - [Google Looker `*`](#google-looker-)
     - [Grafana](#grafana)
-    - [Power BI](#power-bi)
-    - [RShiny](#rshiny)
+    - [Power BI ✔️](#power-bi-️)
+    - [RShiny ✔️](#rshiny-️)
     - [Streamlit](#streamlit)
-    - [Tableau](#tableau)
-- [🤖 Machine Learning](#-machine-learning)
+    - [Tableau ✔️](#tableau-️)
 - [🔗 Data Warehousing](#-data-warehousing)
+- [🤖 Machine Learning](#-machine-learning)
 - [👩‍💻 Software Development](#-software-development)
 - [📙 Books](#-books)
   - [Machine Learning](#machine-learning)
@@ -24,6 +39,49 @@
   - [Eugene Yan `machine learning` `career`](#eugene-yan-machine-learning-career)
   - [Susan Shu Chang `machine learning` `career`](#susan-shu-chang-machine-learning-career)
   - [Martin Fowler `software development` `architecture`](#martin-fowler-software-development-architecture)
+  - [Maggie Appleton `digital garden` `design`](#maggie-appleton-digital-garden-design)
+  - [Andy Matuschak `digital garden` `evergreen notes`](#andy-matuschak-digital-garden-evergreen-notes)
+  - [Azlen Elza `digital garden` `evergreen notes`](#azlen-elza-digital-garden-evergreen-notes)
+
+
+# ☁️ Cloud Computing
+## Applications
+### Amazon Web Services
+* https://aws.amazon.com/
+* Learning Resources
+  * https://aws.amazon.com/training/digital/
+* Certification
+### Google Cloud Platform `*`
+* https://cloud.google.com/
+* Certification
+  * [Data Analytics](https://grow.google/dataanalytics/?utm_source=gDigital&utm_medium=cerparcp&utm_campaign=certs&utm_content=stk#?modal_active=none)
+    * [Data Analytics Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite-gDigital-cerparcp-certs-stk&_ga=2.34637985.1229207857.1620675685-1404545303.1620675685)
+  * [Data Engineer](https://cloud.google.com/certification/data-engineer)
+    * [Data Engineer Learning Path](https://cloud.google.com/training/data-ml#data-engineer-learning-path)
+  * [Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
+    * [Machine Learning Engineer Learning Path](https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path)
+### Microsoft Azure `*` `✔️ ai-900`
+* https://azure.microsoft.com/en-us/
+* Learning Resources
+  * https://docs.microsoft.com/en-us/learn/
+* Certification
+  * Fundamentals
+    * Azure AI-900 - AI Fundamentals ✔️ 
+      * I really loved [CloudReadySkills'](https://cloudreadyskills.com/) session to get ready for this certification.
+    * Azure DP-900 - Data Fundamentals `*`
+  * Associate
+    * [Data Engineer](https://docs.microsoft.com/en-us/learn/certifications/roles/data-engineer?ocid=eml_pg257237_gdc_comm_az&mkt_tok=MTU3LUdRRS0zODIAAAF7_W0qb8yfD_1XdYP2pAYpwUd8Heis6cRBOiXKDdsEmKLJFwQh7geg4cMFKNUKXEE3zSvAljTV7raEfd71-HgypQjrENd4G90iNodSdeVk3qSpBF5onhA1) `*`
+    * [AI Engineer](https://docs.microsoft.com/en-us/learn/certifications/roles/ai-engineer?ocid=eml_pg257358_gdc_comm_az&mkt_tok=MTU3LUdRRS0zODIAAAF7-M47i4GuPD-5oL4ww7yvNBNfDgXyzVXlw_ZsamgmG-gnHB_rRF_V_-sFClZ4Kzswb_n4ImKC1WBqyPPXOQs90FxNenYc4ScVzj9Gbue3dhr8fHomcIdn)
+    * [Data Scientist](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/) `*`
+  * Expert
+    * [Solutions Architect](https://docs.microsoft.com/en-us/learn/certifications/roles/solutions-architect?ocid=eml_pg256520_gdc_comm_az&mkt_tok=MTU3LUdRRS0zODIAAAF8Ak5iaDeLuhf5wNoXl2cFaaKbGH6eO97J6-jiX8brBjDsakw22LDdS-SBp_X4ZDSGisU-wkig5jmQNrR59jtKEGxJleZfKLH8BRWe8_WL6UTxc2HETTU2)
+### Snowflake
+* https://www.snowflake.com/
+
+# 🛠️ Data Engineering
+## Applications
+### IBM DataStage
+### Azure Data Factory
 
 
 # 📊 Data Visualisation
@@ -55,11 +113,11 @@
 * https://grafana.com/
 * I know nothing about this one. A team at the company I work uses this tool for data monitoring, but haven't tried it out myself
 
-### Power BI
+### Power BI ✔️
 * https://powerbi.microsoft.com/en-us/
 * Kudos to Microsoft and how they made Power BI one of the most widely adopted visualisation tools at the moment. By making the tool readily available to just about everyone, they've managed to decrease the distance between data and business users. I think in terms of look and feel it isn't as stunning as Tableau, but for people already familiar with the Microsoft stack, in particular Excel, the transition to this application and the additional insight into data it can provide is just what they need.
 
-### RShiny
+### RShiny ✔️
 * https://shiny.rstudio.com/
 * When you're already working in R for data analytics, this is a great tool to translate your data to a web application. 
 
@@ -71,14 +129,13 @@ All in Python. All for free. No front‑end experience required.
 * other resources
   * https://streamlit.io/gallery
 
-### Tableau
+### Tableau ✔️
 * https://www.tableau.com/
 * I've already played around and created dashboards in Tableau. I think with Tableau the beauty is in the details and in their beautiful visualisation library and user experience design. I think however for a lot of use cases it's not worth the additional cost and for a lot of business cases Power BI will be just as convenient, easy to use and more tailored to self-service than a tool like Tableau
 
+# 🔗 Data Warehousing
 
 # 🤖 Machine Learning
-
-# 🔗 Data Warehousing
 
 # 👩‍💻 Software Development
 
@@ -113,3 +170,15 @@ All in Python. All for free. No front‑end experience required.
 ## Martin Fowler `software development` `architecture`
   * https://martinfowler.com/
 
+## Maggie Appleton `digital garden` `design`
+  * https://maggieappleton.com/
+  * https://github.com/maggieappleton/
+  * The most beautiful example that I've seen so far with regard to Digital Gardens. She has her own curated list of digital gardens as well
+    *  https://github.com/MaggieAppleton/digital-gardeners
+
+## Andy Matuschak `digital garden` `evergreen notes`
+  * https://notes.andymatuschak.org/About_these_notes
+  * His website has introduced me to the concept of evergreen notes and has changed the way I think about structuring information. I also love to read about his views on non-linear note-taking and learning. 
+
+## Azlen Elza `digital garden` `evergreen notes`
+  * https://notes.azlen.me/g3tibyfv/
