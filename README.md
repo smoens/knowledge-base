@@ -78,7 +78,7 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
   * https://docs.microsoft.com/en-us/learn/
 * Certification
   * Fundamentals
-    * Azure AI-900 - AI Fundamentals ✔️ 
+    * Azure AI-900 - AI Fundamentals 🎓 
       * I really loved [CloudReadySkills'](https://cloudreadyskills.com/) session to get ready for this certification.
     * Azure DP-900 - Data Fundamentals `*`
   * Associate
