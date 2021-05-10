@@ -9,7 +9,7 @@ Legend:
   - [Applications](#applications)
     - [Amazon Web Services](#amazon-web-services)
     - [Google Cloud Platform `*`](#google-cloud-platform-)
-    - [Microsoft Azure `*` `✔️ ai-900`](#microsoft-azure--️-ai-900)
+    - [Microsoft Azure `*` `ai-900✔️`](#microsoft-azure--ai-900️)
     - [Snowflake](#snowflake)
 - [🛠️ Data Engineering](#️-data-engineering)
   - [Applications](#applications-1)
@@ -60,7 +60,7 @@ Legend:
     * [Data Engineer Learning Path](https://cloud.google.com/training/data-ml#data-engineer-learning-path)
   * [Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
     * [Machine Learning Engineer Learning Path](https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path)
-### Microsoft Azure `*` `✔️ ai-900`
+### Microsoft Azure `*` `ai-900✔️`
 * https://azure.microsoft.com/en-us/
 * Learning Resources
   * https://docs.microsoft.com/en-us/learn/
