@@ -4,6 +4,7 @@
 | symbol | description |
 |:--:|--|
 |`*`| to explore |
+|👨‍🔬| experimentation |
 |🎓| certificate obtained |
 |✔️| confident in using |
 
@@ -17,24 +18,25 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
     - [Snowflake](#snowflake)
 - [🛠️ Data Engineering](#️-data-engineering)
   - [Applications](#applications-1)
-    - [IBM DataStage](#ibm-datastage)
+    - [IBM DataStage ✔️](#ibm-datastage-️)
     - [Azure Data Factory](#azure-data-factory)
     - [dbt (data build tool) `*`](#dbt-data-build-tool-)
 - [📊 Data Visualisation](#-data-visualisation)
   - [Applications](#applications-2)
     - [Amazon Quicksight `*`](#amazon-quicksight-)
     - [Dash `*`](#dash-)
-    - [D3js `*`](#d3js-)
+    - [D3js `👨‍🔬` `*`](#d3js--)
     - [Google Looker `*`](#google-looker-)
     - [Grafana](#grafana)
     - [Power BI ✔️](#power-bi-️)
-    - [RShiny ✔️](#rshiny-️)
+    - [RShiny `👨‍🔬` `*`](#rshiny--)
     - [Streamlit](#streamlit)
     - [Tableau ✔️](#tableau-️)
 - [🔗 Data Warehousing](#-data-warehousing)
 - [🤖 Machine Learning](#-machine-learning)
   - [Applications](#applications-3)
     - [DVC `data version control` `*`](#dvc-data-version-control-)
+    - [Keras `deep learning` `👨‍🔬`](#keras-deep-learning-)
     - [Kubeflow `machine learning workflow`](#kubeflow-machine-learning-workflow)
     - [MLFlow `machine learning workflow`](#mlflow-machine-learning-workflow)
     - [Tensorflow `deep learning`](#tensorflow-deep-learning)
@@ -90,7 +92,7 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
 
 # 🛠️ Data Engineering
 ## Applications
-### IBM DataStage
+### IBM DataStage ✔️
 ### Azure Data Factory
 ### dbt (data build tool) `*`
 * https://www.getdbt.com/
@@ -109,7 +111,7 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
 * other resources
   * https://dash-gallery.plotly.host/Portal/
 
-### D3js `*`
+### D3js `👨‍🔬` `*`
 * https://d3js.org/
 * The most stunning visualisations I've ever seen, were mostly made with this Javascript library. With the presence of [Observable](https://observablehq.com/) notebooks it's gotten even easier to get started with the tool, but I still haven't succeeded in moving beyond some beginner charts. It takes more time to create a simple barchart than the plug-and-play alternatives in other tools, but the amount of flexibility and the beauty can make it definitely worthwhile. This is one of the tools that's the highest on my "wanting to master"-list.
 
@@ -128,7 +130,7 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
 * https://powerbi.microsoft.com/en-us/
 * Kudos to Microsoft and how they made Power BI one of the most widely adopted visualisation tools at the moment. By making the tool readily available to just about everyone, they've managed to decrease the distance between data and business users. I think in terms of look and feel it isn't as stunning as Tableau, but for people already familiar with the Microsoft stack, in particular Excel, the transition to this application and the additional insight into data it can provide is just what they need.
 
-### RShiny ✔️
+### RShiny `👨‍🔬` `*`
 * https://shiny.rstudio.com/
 * When you're already working in R for data analytics, this is a great tool to translate your data to a web application. 
 
@@ -150,6 +152,9 @@ All in Python. All for free. No front‑end experience required.
 ## Applications
 ### DVC `data version control` `*`
 * https://dvc.org/
+
+### Keras `deep learning` `👨‍🔬`
+* https://keras.io/
 
 ### Kubeflow `machine learning workflow`
 * https://www.kubeflow.org
