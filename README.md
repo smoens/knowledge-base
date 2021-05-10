@@ -4,7 +4,8 @@
 | symbol | description |
 |:--:|--|
 |`*`| to explore |
-|👨‍🔬| experimentation |
+|👨‍🔬| experimented |
+|🕵🏼‍♀️| actively exploring |
 |🎓| certificate obtained |
 |✔️| confident in using |
 
@@ -46,8 +47,8 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
     - [Deep Learning by Ian Goodfellow et al. `*`](#deep-learning-by-ian-goodfellow-et-al-)
     - [Pattern Recognition and Machine Learning by Christopher M. Bischop `*`](#pattern-recognition-and-machine-learning-by-christopher-m-bischop-)
   - [Data Warehousing](#data-warehousing)
-    - [The Data Warehouse Toolkit by Ralph Kimball `currently reading`](#the-data-warehouse-toolkit-by-ralph-kimball-currently-reading)
-- [🕵️‍♀️ People](#️️-people)
+    - [The Data Warehouse Toolkit by Ralph Kimball `🕵🏼‍♀️`](#the-data-warehouse-toolkit-by-ralph-kimball-️)
+- [🦸 People](#-people)
   - [Eugene Yan `machine learning` `career`](#eugene-yan-machine-learning-career)
   - [Susan Shu Chang `machine learning` `career`](#susan-shu-chang-machine-learning-career)
   - [Martin Fowler `software development` `architecture`](#martin-fowler-software-development-architecture)
@@ -181,11 +182,11 @@ All in Python. All for free. No front‑end experience required.
 
 ## Data Warehousing
 
-### [The Data Warehouse Toolkit by Ralph Kimball](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=sr_1_1?crid=3I658WVYZRO5L&dchild=1&keywords=the+data+warehousing+toolkit&qid=1620673127&sprefix=the+data+warehousing+%2Caps%2C237&sr=8-1) `currently reading`
+### [The Data Warehouse Toolkit by Ralph Kimball](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=sr_1_1?crid=3I658WVYZRO5L&dchild=1&keywords=the+data+warehousing+toolkit&qid=1620673127&sprefix=the+data+warehousing+%2Caps%2C237&sr=8-1) `🕵🏼‍♀️`
 
 --- 
 
-# 🕵️‍♀️ People
+# 🦸 People
 
 ## Eugene Yan `machine learning` `career`
   * https://eugeneyan.com/
