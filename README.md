@@ -15,7 +15,7 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
   - [Applications](#applications)
     - [Amazon Web Services](#amazon-web-services)
     - [Google Cloud Platform `*`](#google-cloud-platform-)
-    - [Microsoft Azure `*` `ai-900🎓`](#microsoft-azure--ai-900)
+    - [Microsoft Azure `*` `ai-900 (2021)🎓`](#microsoft-azure--ai-900-2021)
     - [Snowflake](#snowflake)
 - [🛠️ Data Engineering](#️-data-engineering)
   - [Applications](#applications-1)
@@ -73,13 +73,13 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
     * [Data Engineer Learning Path](https://cloud.google.com/training/data-ml#data-engineer-learning-path)
   * [Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
     * [Machine Learning Engineer Learning Path](https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path)
-### Microsoft Azure `*` `ai-900🎓`
+### Microsoft Azure `*` `ai-900 (2021)🎓`
 * https://azure.microsoft.com/en-us/
 * Learning Resources
   * https://docs.microsoft.com/en-us/learn/
 * Certification
   * Fundamentals
-    * Azure AI-900 - AI Fundamentals 🎓 
+    * Azure AI-900 - AI Fundamentals `(2021)🎓` 
       * I really loved [CloudReadySkills'](https://cloudreadyskills.com/) session to get ready for this certification.
     * Azure DP-900 - Data Fundamentals `*`
   * Associate
