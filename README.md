@@ -130,6 +130,11 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
 ### Power BI ✔️
 * https://powerbi.microsoft.com/en-us/
 * Kudos to Microsoft and how they made Power BI one of the most widely adopted visualisation tools at the moment. By making the tool readily available to just about everyone, they've managed to decrease the distance between data and business users. I think in terms of look and feel it isn't as stunning as Tableau, but for people already familiar with the Microsoft stack, in particular Excel, the transition to this application and the additional insight into data it can provide is just what they need.
+* other resources
+  * DAX language
+    * https://docs.microsoft.com/en-us/dax/
+    * https://dax.guide/
+    * https://www.sqlbi.com/
 
 ### RShiny `👨‍🔬` `*`
 * https://shiny.rstudio.com/
