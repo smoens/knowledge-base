@@ -42,6 +42,9 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
     - [MLFlow `machine learning workflow`](#mlflow-machine-learning-workflow)
     - [Tensorflow `deep learning`](#tensorflow-deep-learning)
 - [👩‍💻 Software Development](#-software-development)
+- [General learning resources for programming](#general-learning-resources-for-programming)
+  - [Hackerrank](#hackerrank)
+  - [Linux](#linux)
 - [📙 Books](#-books)
   - [Machine Learning](#machine-learning)
     - [Deep Learning by Ian Goodfellow et al. `*`](#deep-learning-by-ian-goodfellow-et-al-)
@@ -174,6 +177,16 @@ All in Python. All for free. No front‑end experience required.
 * https://www.tensorflow.org/
 
 # 👩‍💻 Software Development
+
+
+# General learning resources for programming
+
+
+## Hackerrank
+* https://www.hackerrank.com : platform containing exercises for different programming languages
+
+## Linux
+* https://ss64.com/bash/ : command reference for Linux
 
 --- 
 
