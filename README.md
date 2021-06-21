@@ -18,6 +18,11 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
     - [Microsoft Azure `*` `ai-900 (2021)🎓`](#microsoft-azure--ai-900-2021)
     - [Snowflake](#snowflake)
 - [🛠️ Data Engineering](#️-data-engineering)
+  - [Concepts](#concepts)
+    - [Data Warehouse](#data-warehouse)
+    - [Data Lake](#data-lake)
+    - [Data Lakehouse](#data-lakehouse)
+    - [Data Mesh](#data-mesh)
   - [Applications](#applications-1)
     - [IBM DataStage ✔️](#ibm-datastage-️)
     - [Azure Data Factory](#azure-data-factory)
@@ -52,6 +57,7 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
   - [Data Warehousing](#data-warehousing)
     - [The Data Warehouse Toolkit by Ralph Kimball `🕵🏼‍♀️`](#the-data-warehouse-toolkit-by-ralph-kimball-️)
 - [🦸 People](#-people)
+  - [Cassie Kozyrkov `data science` `decision scientist`](#cassie-kozyrkov-data-science-decision-scientist)
   - [Eugene Yan `machine learning` `career`](#eugene-yan-machine-learning-career)
   - [Susan Shu Chang `machine learning` `career`](#susan-shu-chang-machine-learning-career)
   - [Martin Fowler `software development` `architecture`](#martin-fowler-software-development-architecture)
@@ -95,6 +101,21 @@ _For more domain-specific resources e.g. mobility, retail... it might be interes
 * https://www.snowflake.com/
 
 # 🛠️ Data Engineering
+
+## Concepts
+
+### Data Warehouse
+
+* Data Vault
+* Kimball
+* Inmon
+
+### Data Lake
+
+### Data Lakehouse
+
+### Data Mesh
+
 ## Applications
 ### IBM DataStage ✔️
 ### Azure Data Factory
@@ -181,14 +202,12 @@ All in Python. All for free. No front‑end experience required.
 
 # General learning resources for programming
 
-
 ## Hackerrank
 * https://www.hackerrank.com : platform containing exercises for different programming languages
 
 ## Linux
 * https://ss64.com/bash/ : command reference for Linux
 
---- 
 
 # 📙 Books
 
@@ -205,6 +224,11 @@ All in Python. All for free. No front‑end experience required.
 --- 
 
 # 🦸 People
+
+## Cassie Kozyrkov `data science` `decision scientist`
+  * https://twitter.com/quaesita
+  * https://kozyrkov.medium.com/
+  * https://hackernoon.com/u/kozyrkov
 
 ## Eugene Yan `machine learning` `career`
   * https://eugeneyan.com/
@@ -231,3 +255,4 @@ All in Python. All for free. No front‑end experience required.
 
 ## Azlen Elza `digital garden` `evergreen notes`
   * https://notes.azlen.me/g3tibyfv/
+
